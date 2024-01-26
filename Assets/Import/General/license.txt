@@ -1,0 +1,11 @@
+Model Information:
+* title:	General
+* source:	https://sketchfab.com/3d-models/general-5b7d8750b89b48e7913393951146cd11
+* author:	ShinTomato (https://sketchfab.com/shintomato)
+
+Model License:
+* license type:	CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
+* requirements:	Author must be credited. No commercial use.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "General" (https://sketchfab.com/3d-models/general-5b7d8750b89b48e7913393951146cd11) by ShinTomato (https://sketchfab.com/shintomato) licensed under CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)

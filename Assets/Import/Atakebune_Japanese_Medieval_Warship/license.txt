@@ -1,0 +1,11 @@
+Model Information:
+* title:	Atakebune Japanese Medieval Warship
+* source:	https://sketchfab.com/3d-models/atakebune-japanese-medieval-warship-5399870ef71a4fd9bf42e98c79497058
+* author:	LukasSI (https://sketchfab.com/LukasSI)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Atakebune Japanese Medieval Warship" (https://sketchfab.com/3d-models/atakebune-japanese-medieval-warship-5399870ef71a4fd9bf42e98c79497058) by LukasSI (https://sketchfab.com/LukasSI) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

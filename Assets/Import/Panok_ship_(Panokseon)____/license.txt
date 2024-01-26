@@ -1,0 +1,11 @@
+Model Information:
+* title:	Panok ship (Panokseon) | 판옥선 | 板屋船
+* source:	https://sketchfab.com/3d-models/panok-ship-panokseon-c1ca5bb2964a49cfabb55e7e17b020e6
+* author:	융해열흡수 (https://sketchfab.com/heat_of_fusion)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Panok ship (Panokseon) | 판옥선 | 板屋船" (https://sketchfab.com/3d-models/panok-ship-panokseon-c1ca5bb2964a49cfabb55e7e17b020e6) by 융해열흡수 (https://sketchfab.com/heat_of_fusion) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
