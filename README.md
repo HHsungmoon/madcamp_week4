@@ -1,5 +1,7 @@
 # madcamp_week4
 
+<img width=500 height=300 src="./imgs/1.png">
+
 ## 개발 환경 ⚙️
 
 Game engine : Unity URP
