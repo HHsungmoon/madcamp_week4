@@ -1,6 +1,6 @@
 # madcamp_week4
 
-<img width=500 height=300 src="./imgs/1.png">
+<img width=500 height=300 src="./imgs/1.JPG">
 
 ## 개발 환경 ⚙️
 
@@ -97,7 +97,7 @@ c,v : 카메라 상하 회전
 [Turtle ship (Geobukseon) | 거북선 | 龜船 | 沐海船 - Download Free 3D model by 융해열흡수 (@heat_of_fusion)](https://skfb.ly/ozELJ)
 
 - 인게임
-
+<img width=400 height=400 src="./imgs/ship1.png">
 
 ### 판옥선
 
@@ -107,13 +107,15 @@ c,v : 카메라 상하 회전
 [Panok ship (Panokseon) | 판옥선 | 板屋船 - Download Free 3D model by 융해열흡수 (@heat_of_fusion)](https://skfb.ly/ozENz)
 
 - 인게임
-    
+<img width=400 height=400 src="./imgs/ship2.png">   
 
 
 ### 아타케부네 (안택선)
 
 임진왜란 당시 일본 수군이 사용하던 대형 전투함.
+<img width=400 height=400 src="./imgs/ship3.png">
 
 ### 세키부네
 
 임진왜란 당시 일본 수군이 사용하던 중형의 전투함
+<img width=400 height=400 src="./imgs/ship4.png">
