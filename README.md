@@ -52,7 +52,7 @@ c,v : 카메라 상하 회전
 |<img src="https://github.com/HHsungmoon/madcamp_week4/blob/main/imgs/game1.gif">|<img src="https://github.com/HHsungmoon/madcamp_week4/blob/main/imgs/game2.gif">|
 
 
-<img src="https://github.com/HHsungmoon/madcamp_week4/blob/main/imgs/game2.gif">
+
 ### 공격
 
 - 배를 선택하면 나오는 UI를 누르면 나오는 버튼을 클릭하면 포가 발사됩니다.
