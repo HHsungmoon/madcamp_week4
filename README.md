@@ -113,9 +113,11 @@ c,v : 카메라 상하 회전
 ### 아타케부네 (안택선)
 
 임진왜란 당시 일본 수군이 사용하던 대형 전투함.
+
 <img width=400 height=400 src="./imgs/ship3.png">
 
 ### 세키부네
 
 임진왜란 당시 일본 수군이 사용하던 중형의 전투함
+
 <img width=400 height=400 src="./imgs/ship4.png">
