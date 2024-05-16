@@ -51,7 +51,10 @@ c,v : 카메라 상하 회전
 |--|--|
 |<img src="https://github.com/HHsungmoon/madcamp_week4/blob/main/imgs/game1.gif">|<img src="https://github.com/HHsungmoon/madcamp_week4/blob/main/imgs/game2.gif">|
 
-
+### 대포
+- 버튼을 눌러 포탄 오브젝트와 폭발 이펙트 발사.
+- 기본 포각에 상하좌우 5도의 랜덤 오차를 기준으로 발사됨.
+- 판옥선에 오브젝트가 23개씩 추가되어 최적화가 필요함.
 
 ### 공격
 
@@ -66,7 +69,6 @@ c,v : 카메라 상하 회전
   
 <img src="https://github.com/HHsungmoon/madcamp_week4/blob/main/imgs/game3.gif">
 
-
 - 학익진을 구성하고 있는 판옥선들의 공격은 일괄적으로 조작할 수 있습니다.
     - < , > 키 : 판옥선들의 좌측포/우측포 일괄 발포
     - M : 판옥선 일괄 회전
@@ -74,6 +76,14 @@ c,v : 카메라 상하 회전
     - N : 판옥선들의 포 각도 하강
 
 <img src="https://github.com/HHsungmoon/madcamp_week4/blob/main/imgs/game4.gif"> 
+
+### 파도
+- 물 위에 떠있는데 파도(높이, 길이 조절 가능)에 따라 배의 흔들림 구현.
+- 파도에 따라 배가 흔들리며 대포의 발사 포인트가 흔들린다. 이동 속도에는 영향이 없다.
+
+<img src="https://github.com/HHsungmoon/madcamp_week4/blob/main/imgs/game5.gif"> 
+
+
 
 ## 배 목록
 
