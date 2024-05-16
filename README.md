@@ -39,6 +39,7 @@ q,e : 카메라 좌우 회전
 
 c,v : 카메라 상하 회전
 
+<img src="https://github.com/HHsungmoon/madcamp_week4/blob/main/imgs/game1.mov">
 
 ### 배 이동
 
