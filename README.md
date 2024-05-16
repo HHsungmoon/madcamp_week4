@@ -24,7 +24,7 @@ Game engine : Unity URP
 
 실제 한산도 대첩이 일어난 조선 견내량 한산도 앞 바다의 지형정보를 받아와 실제와 매우 유사하게 맵을 제작하여서 역사적으로 한산도 대첩에서 이순신 장군이 견내량이 좁다는 판단하에 유인작전을 한 배경을 사용자가 직접 체감할 수 있도록 제작하였습니다.
 
-<img src="../imgs/map1.png"  width="300" height="300">
+<img src="[../imgs/map1.png](https://github.com/HHsungmoon/madcamp_week4/blob/main/imgs/map1.png)"  width="300" height="300">
 
 ---
 
