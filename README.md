@@ -39,14 +39,17 @@ q,e : 카메라 좌우 회전
 
 c,v : 카메라 상하 회전
 
-<img src="https://github.com/HHsungmoon/madcamp_week4/blob/main/imgs/game1.gif">
+<img src="https://github.com/HHsungmoon/madcamp_week4/blob/main/imgs/cam1.gif">
 
 ### 배 이동
 
 - 마우스 우클릭으로 거북선 혹은 판옥선을 클릭하면 이동하기를 원하는 배를 선택할 수 있습니다.
 - 선택된 배는 원하는 곳을 마우스 우클릭으로 지정하면 해당 방향으로 회전 한 후, 진행하게 됩니다.
 - 또한 키보드 방향키를 사용해서 조작 할 수도 있습니다.
-   
+
+|클릭 이동|키보드 이동|
+|--|--|
+|<img src="https://github.com/HHsungmoon/madcamp_week4/blob/main/imgs/game1.gif">|<img src="https://github.com/HHsungmoon/madcamp_week4/blob/main/imgs/game2.gif">|
 
 ### 공격
 
@@ -58,13 +61,17 @@ c,v : 카메라 상하 회전
 - RA : 우측에 있는 모든 포 발사
 - Angle DN / Angle UP : 포의 발사각도 조절 (1,2,3단계)
 - AL : 배를 180도 회전
+  
+<img src="https://github.com/HHsungmoon/madcamp_week4/blob/main/imgs/game3.gif">
+
+
 - 학익진을 구성하고 있는 판옥선들의 공격은 일괄적으로 조작할 수 있습니다.
     - < , > 키 : 판옥선들의 좌측포/우측포 일괄 발포
     - M : 판옥선 일괄 회전
     - J : 판옥선들의 포 각도 상승
     - N : 판옥선들의 포 각도 하강
 
----
+<img src="https://github.com/HHsungmoon/madcamp_week4/blob/main/imgs/game4.gif"> 
 
 ## 배 목록
 
